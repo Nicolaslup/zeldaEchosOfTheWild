@@ -1,0 +1,11 @@
+#scene {
+    border: 2px #000000 solid;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background: black;
+}
